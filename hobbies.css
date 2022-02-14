@@ -5,15 +5,21 @@
   /* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 50%;
+  width: 30%;
   padding: 10px;
 
 }
 p{
-  border: solid rgba(185, 63, 8, 1);
-  border-radius: 15px;
-  padding: 5px;
+    border: solid rgba(185, 63, 8, 1);
+    border-radius: 15px;
+    padding: 5px;
 }
+li{
+    float: right;
+    font-size:small;
+    color:black;
+}
+  
   /* Clear floats after the columns */
 .row:after {
    content: "";
