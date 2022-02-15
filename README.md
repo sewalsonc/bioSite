@@ -5,7 +5,5 @@ YoungTalent
 <ul>
 	<li>Professor Shelanskey</li>
 	<li>Chris Sewalson</li>
-	<li>
-		<a href="Landing.html">Noah's Landing Page</a>
-	</li>	
+	<li><a href="Landing.html">Noah's Landing Page</a></li>	
 </ul>
