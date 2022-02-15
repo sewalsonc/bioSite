@@ -9,6 +9,12 @@
   padding: 10px;
 
 }
+.column1 {
+  float: left;
+  width: 30%;
+  padding: 10px;
+
+}
 p{
   border: solid rgba(185, 63, 8, 1);
   border-radius: 15px;
