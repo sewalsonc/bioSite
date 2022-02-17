@@ -15,7 +15,31 @@
   padding: 10px;
 
 }
+.columnH {
+  float: left;
+  width: 70%;
+  padding: 10px;
+
+}
+.columnHL {
+  float: right;
+  width: 30%;
+  padding: 10px;
+
+}
+.Hobbies{
+  font-style: italic;
+  text-align: right;
+}
+
+li{
+  font-weight: 300;
+  font-size: 1em;
+  text-decoration: none;
+  width:50%; 
+}
 li a{
+  color:black;
   font-weight: 300;
   font-size: 1em;
   text-decoration: none;
@@ -30,16 +54,25 @@ p{
   padding: 5px;
 }
   /* Clear floats after the columns */
-.row:after {
-   content: "";
-   display: table;
-   clear: right;
-  }
+
 img.size1{
     width: 40%;
     height: 20%;
 }
-h1, h2, h4 {
+.header{
+  background-color: #3c275a;
+    border: 1px solid #D6A800;
+    color: yellow;
+    padding: 5px;
+    height: 100px;
+}
+h1{
+  background-color: #3c275a;
+  color: white;
+  padding: 5px;
+  width:100%;
+}
+h2, h4 {
     background-color: #3c275a;
     color: #fff;
     border: 1px solid #D6A800;
@@ -53,8 +86,9 @@ h3 {
 }
 footer{
   background-color: #4F3674;
-  position: absolute;
-  bottom: 10px;
+  position: fixed;
+  left:0;
+  bottom: 0px;
   width: 100%;
 }
 
