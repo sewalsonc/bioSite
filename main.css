@@ -1,109 +1,104 @@
-* {
-    box-sizing: border-box;
+header{
+  width: 100%;
+  background-color:#a54;
+  height: 90px;
 }
-  
-  /* Create two equal columns that floats next to each other */
-.column {
-  float: left;
-  width: 50%;
-  padding: 10px;
-
-}
-.column1 {
-  float: left;
-  width: 30%;
-  padding: 10px;
-
-}
-.columnH {
-  float: left;
-  width: 70%;
-  padding: 10px;
-
-}
-.columnHL {
-  float: right;
-  width: 30%;
-  padding: 10px;
-
-}
-.Hobbies{
-  font-style: italic;
-  text-align: right;
-}
-
 li{
   font-weight: 300;
   font-size: 1em;
   text-decoration: none;
-  width:50%; 
+  width:100%; 
 }
 li a{
-  color:black;
-  font-weight: 300;
-  font-size: 1em;
-  text-decoration: none;
+ color:rgb(30, 31, 36);
+ font-weight: 300;
+ font-size: 1em;
+ text-decoration: none;
 }
 li a:hover{
-  text-decoration: underline;
+ text-decoration: underline;
+ color: blue;
 }
-p{
-  border: solid rgba(185, 63, 8, 1);
-  font-size: 1em;
-  border-radius: 15px;
-  padding: 5px;
+.Hcolumn1{
+  width: 1200px;
+  float: left;
+  margin-left: 20px;
 }
-  /* Clear floats after the columns */
+.Hcolumn2{
+  width: 200px;
+  float: left;
+  margin-top: 20px;
+}
+.Lcolumn1{
+  width: 700px;
+  float: left;
+  margin: 10px;
 
-img.size1{
-    width: 40%;
-    height: 20%;
 }
-.header{
-  background-color: #3c275a;
-    border: 1px solid #D6A800;
-    color: yellow;
-    padding: 5px;
-    height: 100px;
+.Lcolumn2{
+  width: 600px;
+  float: left;
+  margin: 10px;
 }
-h1{
-  background-color: #3c275a;
-  color: white;
-  padding: 5px;
-  width:100%;
+.Acolumn1{
+  width: 400px;
+  float: left;
+  margin: 10px;
+
 }
-h2, h4 {
-    background-color: #3c275a;
-    color: #fff;
-    border: 1px solid #D6A800;
-    padding: 5px;
+.Acolumn2{
+  width: 600px;
+  float: left;
+  margin: 10px;
 }
-h3 {
-    background-color: #3c275a;
-    color: #fff;
-    border: 1px solid #D6A800;
-    padding: 5px;
+.Acolumn3{
+  width: 400px;
+  float: left;
+  margin: 10px;
+}
+.HBcolumn1{
+  width: 400px;
+  float: left;
+  margin: 10px;
+
+}
+.HBcolumn2{
+  width: 600px;
+  float: left;
+  margin: 10px;
+}
+.HBcolumn3{
+  width: 400px;
+  float: left;
+  margin: 10px;
+}
+
+figcaption{
+  margin-left: 0px;
 }
 footer{
   background-color: #4F3674;
-  position: fixed;
+  
+  position: absolute;
+  
   left:0;
   bottom: 0px;
   width: 100%;
 }
 
+
 footer p{
-  color: #fff;
-  font-weight: 400;
-  float: right;
-  padding-right: 10px;
-  font-style: italic;
-  font-size: .75em;
+ color: #fff;
+ font-weight: 400;
+ float: right;
+ padding-right: 10px;
+ font-style: italic;
+ font-size: .75em;
 }
 
 footer a{
-  text-decoration: none;
-  color: #fff;
+ text-decoration: none;
+ color: #fff;
 }
 
 footer a:hover{
