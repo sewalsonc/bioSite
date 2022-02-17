@@ -31,45 +31,45 @@ li a:hover{
   margin-top: 20px;
 }
 .Lcolumn1{
-  width: 700px;
+  width: 58%;
   float: left;
   margin: 10px;
 
 }
 .Lcolumn2{
-  width: 600px;
+  width: 38%;
   float: left;
   margin: 10px;
 }
 .Acolumn1{
-  width: 400px;
+  width: 28%;
   float: left;
   margin: 10px;
 
 }
 .Acolumn2{
-  width: 600px;
+  width: 40%;
   float: left;
   margin: 10px;
 }
 .Acolumn3{
-  width: 400px;
+  width: 28%;
   float: left;
   margin: 10px;
 }
 .HBcolumn1{
-  width: 400px;
+  width: 28%;
   float: left;
   margin: 10px;
 
 }
 .HBcolumn2{
-  width: 600px;
+  width: 58%;
   float: left;
   margin: 10px;
 }
 .HBcolumn3{
-  width: 400px;
+  width: 28%;
   float: left;
   margin: 10px;
 }
