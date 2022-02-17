@@ -20,12 +20,13 @@ li a:hover{
  color: blue;
 }
 .Hcolumn1{
-  width: 1200px;
+  width: 70%;
   float: left;
   margin-left: 20px;
 }
 .Hcolumn2{
-  width: 200px;
+  width: 20%;
+  text-align: right;
   float: left;
   margin-top: 20px;
 }
