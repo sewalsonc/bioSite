@@ -26,7 +26,6 @@ li a:hover{
 }
 .Hcolumn2{
   width: 20%;
-  text-align: right;
   float: left;
   margin-top: 20px;
 }
@@ -48,7 +47,7 @@ li a:hover{
 
 }
 .Acolumn2{
-  width: 40%;
+  width: 38%;
   float: left;
   margin: 10px;
 }
@@ -64,7 +63,7 @@ li a:hover{
 
 }
 .HBcolumn2{
-  width: 58%;
+  width: 38%;
   float: left;
   margin: 10px;
 }
