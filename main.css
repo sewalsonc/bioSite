@@ -3,6 +3,9 @@ header{
   background-color:#a54;
   height: 90px;
 }
+ol{
+  line-height: 1.4em;
+}
 li{
   font-weight: 300;
   font-size: 1em;
