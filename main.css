@@ -81,11 +81,12 @@ figcaption{
 footer{
   background-color: #4F3674;
   
-  position: absolute;
+  /*position: absolute;*/
   
   left:0;
   bottom: 0px;
   width: 100%;
+  position: fixed;
 }
 
 
