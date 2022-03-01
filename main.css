@@ -10,14 +10,15 @@ li{
   font-weight: 300;
   font-size: 1em;
   text-decoration: none;
-  width:100%; 
+  width:100%;
+  margin-right: 10px; 
 }
-.hr{
+hr{
   width: 100%;
 }
 
 li a{
- color:rgb(30, 31, 36);
+ color:white;
  font-weight: 300;
  font-size: 1.25em;
  text-decoration: none;
@@ -30,6 +31,8 @@ li a:hover{
   width: 70%;
   float: left;
   margin-left: 20px;
+  font-size: 1.5em;
+  margin-top: 0px;
 }
 .Hcolumn2{
   width: 20%;
