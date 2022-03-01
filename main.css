@@ -3,9 +3,6 @@ header{
   background-color:#a54;
   height: 90px;
 }
-ul{
-  font-size: 1.5em;
-}
 ol{
   line-height: 1.4em;
 }
@@ -19,7 +16,7 @@ li{
 li a{
  color:rgb(30, 31, 36);
  font-weight: 300;
- font-size: 1em;
+ font-size: 1.25em;
  text-decoration: none;
 }
 li a:hover{
@@ -30,15 +27,11 @@ li a:hover{
   width: 70%;
   float: left;
   margin-left: 20px;
-  font-size: 1.5em;
-
 }
 .Hcolumn2{
   width: 20%;
   float: left;
   margin-top: 20px;
-  font-size: 1em;
-
 }
 .Lcolumn1{
   width: 48%;
