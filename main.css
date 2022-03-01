@@ -12,6 +12,9 @@ li{
   text-decoration: none;
   width:100%; 
 }
+.hr{
+  width: 100%;
+}
 
 li a{
  color:rgb(30, 31, 36);
