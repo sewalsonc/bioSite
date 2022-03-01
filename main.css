@@ -2,13 +2,14 @@ header{
   width: 100%;
   background-color:#a54;
   height: 90px;
+  font-size: 2.5em;
 }
 ol{
   line-height: 1.4em;
 }
 li{
   font-weight: 300;
-  font-size: 2em;
+  font-size: 1.5em;
   text-decoration: none;
   width:100%; 
 }
@@ -36,7 +37,7 @@ li a:hover{
 .Lcolumn1{
   width: 48%;
   float: left;
-  margin: 10px;
+  margin: 15px;
   font-size:larger;
 
 }
@@ -87,9 +88,10 @@ li a:hover{
 
 figcaption{
   margin-left: 0px;
+  font-style: italic;
 }
 footer{
-  background-color: #4F3674;
+  background-color:#a54;
   
   /*position: absolute;*/
   
